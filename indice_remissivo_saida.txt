@@ -1,0 +1,15 @@
+artificial 2
+challenges 5
+change 4
+climate 4
+diagnostics 3
+energy 4
+future 1
+healthcare 3
+intelligence 2
+internet 5
+of 1 5
+sustainable 4
+technology 1
+things 5
+transportation 3
